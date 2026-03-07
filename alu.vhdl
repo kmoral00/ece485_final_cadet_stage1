@@ -18,7 +18,11 @@ begin
     begin
         case op is
             when "0000" => result <= std_logic_vector(signed(a) + signed(b)); -- ADD
-            when "<code for subtract>" => result <= <math for subtract; -- SUB
+            
+            --TODO:
+            when "0001" => result <= std_logic_vector(signed(a) - signed(b)); -- SUB The op be "0001" and would be 
+            
+            
             when others => result <= (others => '0');
         end case;
     end process;
