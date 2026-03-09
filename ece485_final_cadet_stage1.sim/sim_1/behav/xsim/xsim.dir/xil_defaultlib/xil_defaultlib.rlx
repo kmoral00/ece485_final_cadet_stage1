@@ -2,13 +2,13 @@
 2018.2
 Jun 14 2018
 20:41:02
-C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/alu.vhdl,1772206038,vhdl,,,,alu,,,,,,,,
+C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/alu.vhdl,1772914280,vhdl,,,,alu,,,,,,,,
 C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/alu_control.vhdl,1772206232,vhdl,,,,alu_control,,,,,,,,
 C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/control_unit.vhdl,1772203218,vhdl,,,,control_unit,,,,,,,,
 C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/data_mem.vhdl,1772203218,vhdl,,,,data_mem,,,,,,,,
 C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/immediate_generator.vhdl,1772589061,vhdl,,,,immediate_generator,,,,,,,,
-C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/instr_mem.vhdl,1772913493,vhdl,,,,instr_mem,,,,,,,,
+C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/instr_mem.vhdl,1773024859,vhdl,,,,instr_mem,,,,,,,,
 C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/pc.vhdl,1772203218,vhdl,,,,pc_live,,,,,,,,
 C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/reg_file.vhdl,1772203218,vhdl,,,,reg_file,,,,,,,,
-C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/riscv_multicycle.vhdl,1772640724,vhdl,,,,riscv_multicycle,,,,,,,,
+C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/riscv_multicycle.vhdl,1772916148,vhdl,,,,riscv_multicycle,,,,,,,,
 C:/Users/Kayla.Morales/ece485_wksp/ece485_final_cadet_stage1/tb_riscv_multicycle.vhdl,1772203218,vhdl,,,,tb_riscv_multicycle,,,,,,,,
