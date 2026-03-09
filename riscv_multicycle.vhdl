@@ -322,7 +322,7 @@ begin
     -- Moore Machine, outputs determined by State
     -- MEMORY
     mem_write_chip <= '1' when (state = MEMORY and mem_write = '1') else '0';  -- ensure only write to memory during this state
-    next_pc <= std_logic_vector(signed(NPC)+signed(imm)) when (state = MEMORY and branch = '1' and reg1_data /= reg2_data) else --When do we want to branch PC=PC+4+(sign extend)(imm[11:1])
+    next_pc <= std_logic_vector(signed(NPC)+shift_left(signed(imm), 1)) when (state = MEMORY and branch = '1' and reg1_data /= reg2_data) else --When do we want to branch PC=PC+4+(sign extend)(imm[11:1])
                 std_logic_vector(signed(NPC)+signed(imm)) when (state = MEMORY and jump = '1') else --When do we want to jump PC = PC +4 +(signextend)imm[20:1])
                NPC when state = MEMORY else --<when do we want to do PC+4?>
                next_pc;  -- otherwise, keep the same pc until time to update

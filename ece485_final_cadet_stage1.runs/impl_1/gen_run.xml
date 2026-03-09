@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="impl_1" LaunchPart="xc7a200tsbg484-1" LaunchTime="1772592512">
-  <File Type="PA-DCP" Name="riscv_multicycle.dcp"/>
   <File Type="OPT-HWDEF" Name="riscv_multicycle.hwdef"/>
-  <File Type="PA-TCL" Name="riscv_multicycle.tcl"/>
+  <File Type="PA-DCP" Name="riscv_multicycle.dcp"/>
   <File Type="BITSTR-BMM" Name="riscv_multicycle_bd.bmm"/>
-  <File Type="OPT-DCP" Name="riscv_multicycle_opt.dcp"/>
+  <File Type="PA-TCL" Name="riscv_multicycle.tcl"/>
   <File Type="REPORTS-TCL" Name="riscv_multicycle_reports.tcl"/>
+  <File Type="OPT-DCP" Name="riscv_multicycle_opt.dcp"/>
   <File Type="OPT-DRC" Name="riscv_multicycle_drc_opted.rpt"/>
   <File Type="PWROPT-DCP" Name="riscv_multicycle_pwropt.dcp"/>
   <File Type="PLACE-DCP" Name="riscv_multicycle_placed.dcp"/>

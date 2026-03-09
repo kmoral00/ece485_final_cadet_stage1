@@ -10,18 +10,18 @@
       </db_ref>
    </db_ref_list>
    <zoom_setting>
-      <ZoomStartTime time="0fs"></ZoomStartTime>
-      <ZoomEndTime time="340000001fs"></ZoomEndTime>
-      <Cursor1Time time="258500000fs"></Cursor1Time>
+      <ZoomStartTime time="1369905000fs"></ZoomStartTime>
+      <ZoomEndTime time="1502305001fs"></ZoomEndTime>
+      <Cursor1Time time="1464805000fs"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
       <NameColumnWidth column_width="161"></NameColumnWidth>
-      <ValueColumnWidth column_width="117"></ValueColumnWidth>
+      <ValueColumnWidth column_width="113"></ValueColumnWidth>
    </column_width_setting>
    <WVObjectSize size="33" />
    <wave_markers>
-      <marker time="1500000000" label="" />
       <marker time="0" label="" />
+      <marker time="1464805000" label="" />
    </wave_markers>
    <wvobject fp_name="/tb_riscv_multicycle/clk" type="logic">
       <obj_property name="ElementShortName">clk</obj_property>
